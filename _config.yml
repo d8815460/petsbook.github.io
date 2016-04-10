@@ -15,7 +15,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: TianWei Lan
   pic: 1
   position: Lead Designer
   social:
@@ -26,7 +26,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: HaoWei Huang
   pic: 2
   position: Lead Marketer
   social:
@@ -37,8 +37,19 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: YingHao Chen
   pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: ChunYi Chen
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
